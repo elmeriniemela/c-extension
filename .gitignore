@@ -1,0 +1,6 @@
+venv/**/*
+*.pyc
+.vscode/*
+build/**/*
+*.egg-info
+files.txt
